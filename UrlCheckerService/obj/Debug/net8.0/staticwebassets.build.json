@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yucAUXb7CFJJHihlS9tLP+YXLzn1xKcLaRbG/p99qZU=",
+  "Source": "UrlCheckerService",
+  "BasePath": "_content/UrlCheckerService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
